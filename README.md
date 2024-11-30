@@ -1,3 +1,5 @@
+FullStack Developer and Product Designer
+
 ### :speech_balloon: Contacts 
 * Email: maksimv0202@gmail.com
 * Telegram: [t.me/maksimv0202](https://t.me/maksimv0202)
