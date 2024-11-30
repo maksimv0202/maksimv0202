@@ -1,4 +1,4 @@
-FullStack Developer and Product Designer
+## FullStack Developer and Product Designer
 
 ### :speech_balloon: Contacts 
 * Email: maksimv0202@gmail.com
