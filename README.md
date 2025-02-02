@@ -1,3 +1,4 @@
+Python, JavaScript and Go programmer 🤠
 ### :speech_balloon: Contacts 
 * Email: maksimv0202@gmail.com
 * Telegram: [t.me/maksimv0202](https://t.me/maksimv0202)
