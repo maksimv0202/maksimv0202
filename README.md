@@ -1,4 +1,4 @@
-* Python, JavaScript and Go programmer
+* Python, JavaScript/TypeScript and Go programmer
 * CEO & Founder of Digital Agency
 ### :speech_balloon: Contacts 
 * Email: maksimv0202@gmail.com
